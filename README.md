@@ -1,8 +1,8 @@
 # Multi-Label-Topic-Classification-of-Tweet
 
-• Extracted tweets from twitter for different combinations of topics 
+• Extracted tweets from twitter for different combinations of topics - ['electronics'], ['politics'], ['travel'], ['car'], ['electronics','car'], ['politics','car'], ['travel','car'], ['politics','travel'], ['travel','electronics']
 
-• Performed data pre-processing steps like tokenization, stemming, removing stop words, POS-tagging and parsing to create features
+• Performed data pre-processing steps like tokenizing tweets, removing stop words, removing unwanted punctuations using regular expressions and creating features using tf-idf
 
 • Used Ensemble of Classifier Chains to extract all the topics a user is talking about in a tweet
 
