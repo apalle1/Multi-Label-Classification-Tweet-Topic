@@ -6,4 +6,8 @@
 
 • Used Ensemble of Classifier Chains to extract all the topics a user is talking about in a tweet
 
+• Used precision score as a evaluation metric as the intention is make sure all the recommeded tweets are relevant to the user, so we want high precison
+
+• On test data, achieved micro-average precision score of 97.105 & macro-average precision score of 97.173
+
 • Medium Link - https://medium.com/@abhishek.palle123/multi-label-topic-classification-of-tweet-25c5eeef61a6
